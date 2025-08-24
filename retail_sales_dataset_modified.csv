@@ -1,0 +1,34 @@
+Sum of Total Amount,Column Labels,,
+Row Labels,Female,Male,Grand Total
+Beauty,74830,67185,142015
+Clothing,81275,74305,155580
+Electronics,76735,80140,156875
+Grand Total,232840,221630,454470
+,,,
+Row Labels,Sum of Total Amount,,
+Beauty,142015,,
+Clothing,155580,,
+Electronics,156875,,
+Grand Total,454470,,
+,,,
+Sum of Total Amount,Column Labels,,
+Row Labels,Female,Male,Grand Total
+Adult,196475,187095,383570
+Senior,21090,23725,44815
+Teenager,15275,10810,26085
+Grand Total,232840,221630,454470
+,,,
+Row Labels,Sum of Total Amount,,
+January,35450,,
+February,44060,,
+March,28990,,
+April,33870,,
+May,53150,,
+June,36715,,
+July,35465,,
+August,36960,,
+September,23620,,
+October,46580,,
+November,34920,,
+December,44690,,
+Grand Total,454470,,
