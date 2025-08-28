@@ -1,7 +1,7 @@
 # Introduction
 ### This analysis provides a comprehensive overview of retail sales performance using the given dataset. The data captures aggregated sales amounts across different categories, which allows exploration of trends and patterns.
 
-# The tools I used
+# The tools I Used
 ### PivotTables and PivotCharts in Microsoft Excel
 
 # The Visualization and Analysis
